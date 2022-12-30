@@ -1,1 +1,8 @@
 
+<div>
+  <iframe id="inlineFrameExample"
+      title="Inline Frame Example"
+      width="300"
+      height="200"
+      src="https://gist.github.com/Yair-T/3b9d867a4da87332f1d4e72aedd29678.js"  </iframe>
+</div>
