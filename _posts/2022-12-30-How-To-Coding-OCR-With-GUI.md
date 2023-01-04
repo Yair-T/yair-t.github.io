@@ -43,7 +43,7 @@ Note that the 'Pillow' library we installed earlier is called 'PIL' in its impor
 In addition, I imported two more libraries here:
 * tkinter - to create a file saving window, which cannot be done in "PySimpleGUI".
 * webbrowser - to open a browser window for the "About" option (you'll see after this what it means).
-_______
+------------
 Now we will define the path of the Tesseract software as follows:
 ```python
 # Setting the path to the tesseract executable.
@@ -78,7 +78,7 @@ def ocr_image(image_path, language):
 This function, which receives two parameters that we will define later: image_path - in order to open the image and convert it to grayscale for scanning.
 language - for the OCR engine to know which language to scan from the image.
 The function returns the value "text". Which, in fact, is what his name is. The scanned text from the image.
-___
+------------
 Now, we will create the design of the user window. Following form,
 We create a variable named "layout" that contains:
 Title inside the "OCR Tool" window, a button to select a file, an option to select a language (you can add more languages to it...), a button to convert, a button to save the text, a button to copy the text, an "About" button and a cancel (close) button.
