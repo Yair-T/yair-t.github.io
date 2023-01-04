@@ -79,6 +79,7 @@ This function, which receives two parameters that we will define later: image_pa
 language - for the OCR engine to know which language to scan from the image.
 The function returns the value "text". Which, in fact, is what his name is. The scanned text from the image.
 ------------
+
 Now, we will create the design of the user window. Following form,
 We create a variable named "layout" that contains:
 Title inside the "OCR Tool" window, a button to select a file, an option to select a language (you can add more languages to it...), a button to convert, a button to save the text, a button to copy the text, an "About" button and a cancel (close) button.
