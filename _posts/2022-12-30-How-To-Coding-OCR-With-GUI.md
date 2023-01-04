@@ -15,8 +15,7 @@ Well, now we can continue.
 Make sure you have PIP installed using the command   ` pip` in the terminal. If you get an error search the web for information to install pip.
 
 Now we will install some libraries that we will use for the project. Using a command like this in the terminal: 
-
-    pip install pytesseract PySimpleGUI pyperclip Pillow
+'pip install pytesseract PySimpleGUI pyperclip Pillow'
 This command will install the following libraries:
 pytesseract - this is a bridge between the Tesseract software and Python.
 Pillow - will be used by us to open the image.
