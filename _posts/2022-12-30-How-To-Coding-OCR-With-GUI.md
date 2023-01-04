@@ -1,4 +1,4 @@
-## How To Coding Image OCR Tool With GUI in Python
+## How To Coding Image OCR Tool With GUI In Python
 Hello everyone! I am Yair and I want to tell you hou to create Image OCR Tool With GUI in Python.
 **Without further ado let's get started!**
 ![code](https://lh3.googleusercontent.com/vZWFq7IdKH_BAI_rukIyvOhpD46v8NfL7fNedW6wWFlbiaYJJWBBadEKfj5ZaC29QQTJlaLWZvgLfCdkK-vsxCClSK_dQZEK0eHQig=w1442-h714-rw-sm-pa-nu-v0 "code")
