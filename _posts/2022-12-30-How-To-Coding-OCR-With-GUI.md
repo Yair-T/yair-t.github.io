@@ -162,7 +162,7 @@ For the full code: [https://github.com/Yair-T/Image-OCR-Tool/blob/main/main.py](
 See you in the next post!
 
 ![Image OCR Tool](https://lh3.googleusercontent.com/o31-nAv-H7czKA9kg2WbXeX91PKWocWFj7zCeEwM7sYVDqlPVY5X9leoVoNpScoG4SLd6lnX23N7QZ0184K04qx5ibecw5WnskGyWA=w1494-h718-rw-sm-pa-nu-v0 "Image OCR Tool")
-____________________________________________
+__________________________________________________________________________
 credit:
 The user interface of the software would not have been built if it were not for the [PySimpleGUI](https://www.pysimplegui.org/ "PySimpleGUI") package, many thanks to its developers.
 
