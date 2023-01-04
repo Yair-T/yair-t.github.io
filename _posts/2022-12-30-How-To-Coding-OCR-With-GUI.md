@@ -78,7 +78,7 @@ def ocr_image(image_path, language):
 This function, which receives two parameters that we will define later: image_path - in order to open the image and convert it to grayscale for scanning.
 language - for the OCR engine to know which language to scan from the image.
 The function returns the value "text". Which, in fact, is what his name is. The scanned text from the image.
-------------
+------------------------------------
 
 Now, we will create the design of the user window. Following form,
 We create a variable named "layout" that contains:
